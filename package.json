@@ -1,0 +1,26 @@
+{
+  "name": "populate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohyo-io/populate.git"
+  },
+  "keywords": [
+    "populate"
+  ],
+  "author": "Dudochkin Victor <dudochkin.victor@gmail.com> (https://ohyo.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohyo-io/populate/issues"
+  },
+  "homepage": "https://github.com/ohyo-io/populate#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "prettier-eslint": "^8.8.1"
+  }
+}
