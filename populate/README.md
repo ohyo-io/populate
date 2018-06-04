@@ -12,6 +12,7 @@ No magic, no overhead. This module just do one thing and do it well.
 <h2 class="demo-card__title mdc-typography--headline6" id="book_title">Our Changing Planet</h2>
 <h3 class="demo-card__subtitle mdc-typography--subtitle2">by <span id="book_author"></h3>
 <img src="" alt="" class="thumbnail" style="display: none;" id="image">
+</template>
 ```
 
 2.  Add this this as dependency one time to your Javascript sources any appropriate way (webpack or direct import )
@@ -49,7 +50,7 @@ The basis is the agreement on names. Let's agree to use keys in our data that ar
 The main rule is:
 
 ```
-elemrnt_identifier __ element_attribute.
+element_identifier __ element_attribute.
 ```
 
 Thats all folks!!!
